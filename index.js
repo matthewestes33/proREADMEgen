@@ -43,8 +43,13 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'questions',
-        message: 'Allow users to contact you if they have additional questions.',
+        name: 'email',
+        message: 'In case users have questions, what is your email?',
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'In case users want to see your portfolio, what is your GitHub username?',
     },
 ];
 

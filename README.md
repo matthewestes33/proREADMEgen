@@ -1,7 +1,7 @@
-# Nikki
+# Wednesday
 
   ## Description
-  May 4th
+  Hi
   
   ## Table of Contents
  
@@ -13,20 +13,22 @@
   - [Questions](#questions)
   
   ## Installation
-  There are some
+  Tall
   
   ## Usage
-  Working on it
+  See user manual.
 
   ## Contributing
-  Just me
+  Lala
 
-  
-  
-  
+  ## License The MIT License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [The MIT License](https://opensource.org/licenses/MIT)
   
   ## Tests
-  OK
+  Open book test
   
   ## Questions
-  I don't
+  Email me at: ncortes1415@gmail.com
+  
+  View my GitHub portfolio at https://github.comncortes1415
