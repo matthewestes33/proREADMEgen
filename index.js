@@ -62,7 +62,7 @@ function init() {
             if (err) {
                 console.log(err);
             }
-            console.log('README created!');
+            console.log('Your README has been generated!');
         });
     });
 }

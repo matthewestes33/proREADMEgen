@@ -46,7 +46,7 @@ function renderLicenseBadge(license) {
 
 
 // Function to generate markdown for README 
-// using language fromProfessional README Guide 
+// using language from Professional README Guide 
 // https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 function generateMarkdown(data) {
   return `# ${data.title}
