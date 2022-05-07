@@ -1,7 +1,7 @@
-# a
+# ProREADMEgen
 
   ## Description
-  b
+  This professional README generator is a command-line application that dynamically generates a professional-quality README.md file from a user's input using the Inquirer package.
   
   ## Table of Contents
  
@@ -13,20 +13,20 @@
   - [Questions](#questions)
   
   ## Installation
-  c
+  This application requires installation npm (type "npm install" in the command line).
   
   ## Usage
-  d
+  https://drive.google.com/file/d/1aepxNWQrccQFMerNRW-A6hMBVGZ0L27V/view?usp=sharing
 
   ## Contributing
-  e
+  none
 
   ## License The MIT License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [The MIT License](https://opensource.org/licenses/MIT)
   
   ## Tests
-  f
+  none
   
   ## Questions
   Email me at: matthewestes@outlook.com
